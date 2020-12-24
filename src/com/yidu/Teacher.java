@@ -7,7 +7,9 @@ package com.yidu;
  * @Version:1.0
  */
 public class Teacher {
+    private String img;
     public static void main(String[] args) {
         System.out.println("这是我的第二个类！");
+        
     }
 }
